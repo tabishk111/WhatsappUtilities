@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Whatsapp Utilities</string>
+    <string name="status_saver">Status Saver</string>
+    <string name="direct_chat">Direct chat</string>
+    <string name="walk_and_chat"><![CDATA[Walk & Chat]]></string>
+    <string name="deleted_message">Deleted Message</string>
+    <string name="qr_creator">Qr Creator</string>
+</resources>
